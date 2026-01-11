@@ -92,6 +92,7 @@ Research homepage
       <li><a href="#publications">Publications</a></li>
       <li><a href="#talks">Talks</a></li>
       <li><a href="#teaching">Teaching</a></li>
+      <li><a href="#thesis">Graduation Thesis</a></li>
       <li><a href="#contact">Contact</a></li>
     </ul>
   </nav>
@@ -146,6 +147,36 @@ Research homepage
       </ul>
     </section>
 
+    <section id="thesis">
+      <h2>Graduation Thesis</h2>
+
+      <h3>現在の卒業研究テーマ</h3>
+      <ul>
+        <li>
+          学生名（年度）：
+          <br />
+          <strong>研究題目：</strong> ブラックホール内部における量子波動関数の解析
+          <br />
+          <span class="note">
+            Wheeler–DeWitt方程式を用いたミニスーパー空間モデルの解析
+          </span>
+        </li>
+      </ul>
+
+      <h3>過去の卒業研究</h3>
+      <ul>
+        <li>
+          学生名（2025年度）：
+          <br />
+          <strong>研究題目：</strong> Hořava–Lifshitz重力におけるブラックホール特異点の量子効果
+        </li>
+      </ul>
+
+      <p class="note">
+        ※ 研究テーマは毎年更新されます。内容は変更される可能性があります。
+      </p>
+    </section>
+
     <section id="contact">
       <h2>Contact</h2>
       <p>
@@ -160,21 +191,4 @@ Research homepage
   </footer>
 </body>
 </html>
----
-title: 卒業研究（学部4年）
----
 
-## 2025年度 卒研生
-
-### 山田 太郎
-- **研究題目**：ブラックホール内部の量子力学的構造
-- **キーワード**：量子重力，WDW方程式
-- **概要**：Hořava–Lifshitz重力におけるブラックホール内部の量子状態を解析する。
-
----
-
-## 過去の卒研生
-
-### 2024年度
-- 佐藤 花子「◯◯◯◯」
-- 鈴木 一郎「◯◯◯◯」
