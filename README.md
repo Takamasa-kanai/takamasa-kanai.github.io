@@ -162,6 +162,18 @@ Research homepage
           </span>
         </li>
       </ul>
+       <ul>
+        <li>
+          学生名（年度）：
+          <br />
+          <strong>研究題目：</strong> ブラックホール内部における量子波動関数の解析
+          <br />
+          <span class="note">
+            Wheeler–DeWitt方程式を用いたミニスーパー空間モデルの解析
+          </span>
+        </li>
+      </ul>
+
 
       <h3>過去の卒業研究</h3>
       <ul>
